@@ -1,18 +1,25 @@
-# Discord-bot-QR-code-generator
+1. create new discord app (https://discord.com/developers/) to get tokens
+2. add bot to server
+3. Add new commands to Discord
+4. Run bot
+
 # DevProjects - Discord bot: QR code generator
 
-This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [Discord bot: QR code generator](https://www.codementor.io/projects/tool/discord-bot-qr-code-generator-cgkm8b16qf)
+This is an open source project from
 
 ## Tech/framework used
-Built with ___
+
+Built with Node
 
 ## Screenshots and demo
+
 Screenshots of your app and/or a link to your live demo
 
 ## Installation
-Instructions for other developers on how to install and run your code on their local environment.
+
+1. Clone the project
+2. Run npm install or npm i to install dependencies
+3. Run the code
+4. Open discord and type text to create QR Code (QR-Generator#3407)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
